@@ -3,9 +3,11 @@
 * [phenomenon](README.md)
 * [Day1](day1.md)
 * [Day2](day2.md)
+* [Day3](day3.md)
 
 ## Honor of King
 
+* [Info & Decision](honor-of-king/info-and-decision.md)
 * [Mindset](honor-of-king/untitled.md)
 
 ## 日本語勉強experiences <a id="ri-ben-yu-mian-jiang-experiences"></a>
