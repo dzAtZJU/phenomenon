@@ -20,5 +20,11 @@ When can't Perceive, I must Imagine.
 
 Feeling is close to a Human. I am convinced Feeling is the right way. I give Feeling heavy weights. However and So, Feeling itself must be learnt more. The new knowledge about Feeling is that Horizon matters: Process, Result, Short-Term, Middle-Term, Long-Term.
 
+I feel it's becoming a little boring and simple preparing interviewing questions, which confirms that I am such a person that seeks for Intelligence-Fun. I am glad that I am like that. So I am going to reward myself one round of Honor-of-King.
 
+Honor-of-King makes minds not calming. I need to do one Japanese lesson for calming down.
+
+I am really bored by the fake and ill-tasted UITableView performance problem. I need to tell myself to relax, get away from this trash, so my runloop will not be hurt.
+
+A time has come when I need to decide what topic to dive more into. It's like when you have learn 2000 Japanese words, you should put more time on Grammar. Now, I should not only skip those ill-taste questions, but also be more selective to try to shape my Technique-Style. Thats what I said before that I want to be humble so I accept that I tap into the field and experience those interviewing questions. Now that I already experience, I can be more perspective and stylish. Is this again be self-centric and off track with reality? I don't think so since now I know more about what an interviewer wants.
 

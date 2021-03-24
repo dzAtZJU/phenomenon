@@ -14,6 +14,8 @@
 
 * [Make it fun](ri-ben-yu-mian-jiang-experiences/make-it-fun.md)
 * [Grammar](ri-ben-yu-mian-jiang-experiences/grammar/README.md)
+  * [Lets](ri-ben-yu-mian-jiang-experiences/grammar/lets.md)
+  * [Must not](ri-ben-yu-mian-jiang-experiences/grammar/must-not.md)
   * [Please](ri-ben-yu-mian-jiang-experiences/grammar/please.md)
   * [Tense](ri-ben-yu-mian-jiang-experiences/grammar/tense.md)
   * [形容词](ri-ben-yu-mian-jiang-experiences/grammar/xing-rong-ci.md)
