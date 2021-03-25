@@ -44,7 +44,7 @@ check-materials
 * \_\_weak
 * \_\_unsafe\_unretained
 * \_\_autoreleasing
-
+* [ ] 
 ### **questions**
 
 * [ ] how immediately is deallocating when there is no strong reference?

@@ -34,6 +34,7 @@
 
 * [Make it feel natural](ios/make-it-feel-natural.md)
 * [Phenomenon](ios/phenomenon/README.md)
+  * [Blocks](ios/phenomenon/blocks.md)
   * [ARC](ios/phenomenon/arc/README.md)
     * [MMR](ios/phenomenon/arc/mmr.md)
 
