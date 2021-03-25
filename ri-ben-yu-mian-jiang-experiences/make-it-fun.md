@@ -5,4 +5,5 @@
 3. more grammar for Intelligence-Fun
 4. write down useful topics  into a system for Applying-Fun
 5. context switching to game for Different-Fun
+6. Dive into the topic skincare for Applying-Fun
 

@@ -28,3 +28,7 @@ I am really bored by the fake and ill-tasted UITableView performance problem. I 
 
 A time has come when I need to decide what topic to dive more into. It's like when you have learn 2000 Japanese words, you should put more time on Grammar. Now, I should not only skip those ill-taste questions, but also be more selective to try to shape my Technique-Style. Thats what I said before that I want to be humble so I accept that I tap into the field and experience those interviewing questions. Now that I already experience, I can be more perspective and stylish. Is this again be self-centric and off track with reality? I don't think so since now I know more about what an interviewer wants.
 
+My own goal this year is Code Quality, Practical Knowledge, Algorithms. I need to combine what ByteDance wants, what MS and Paypay wants, and what I myself want. This line of thoughts have some taste of Cooperating, which is getting to know what needs are there and see if I can fulfill some. This may be an easier motivation for a Human to drive himself.
+
+
+
