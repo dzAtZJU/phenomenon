@@ -42,4 +42,5 @@
 ## Humanity
 
 * [Humanity](humanity/humanity.md)
+* [Aesthetics](humanity/aesthetics.md)
 
