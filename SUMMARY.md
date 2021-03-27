@@ -1,11 +1,12 @@
 # Table of contents
 
-* [phenomenon](README.md)
+* [Diary](README.md)
 * [Day1](day1.md)
 * [Day2](day2.md)
 * [Day3](day3.md)
 * [Day4](day4.md)
 * [Day5](day5.md)
+* [Day6](day6.md)
 
 ## Honor of King
 
@@ -35,6 +36,7 @@
 
 * [Make it feel natural](ios/make-it-feel-natural.md)
 * [Phenomenon](ios/phenomenon/README.md)
+  * [Memory](ios/phenomenon/memory.md)
   * [Blocks](ios/phenomenon/blocks.md)
   * [ARC](ios/phenomenon/arc/README.md)
     * [MMR](ios/phenomenon/arc/mmr.md)
