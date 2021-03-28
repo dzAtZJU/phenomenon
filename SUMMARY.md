@@ -7,6 +7,7 @@
 * [Day4](day4.md)
 * [Day5](day5.md)
 * [Day6](day6.md)
+* [Day7](day7.md)
 
 ## Honor of King
 
