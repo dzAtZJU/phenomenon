@@ -12,11 +12,11 @@ Consumptions are \(Brain, Mood\).
 
 Recoveries are \(Microlight\).
 
-I will give Leetcode a try as the third Task. Actually, doing Leetcode feels good! So now routine becomes:
+I will give Leetcode a try as the third Task. Actually, doing Leetcode feels good! So now routine becomes:  
 
-Tasks are \(iOS, LeetCode, Duolingo\).
 
-Consumptions are \(Mood, Brain\).
-
-Recoveries are \(Microlight, HoK\).
+* Customs are \(\)
+* Tasks are \(iOS, LeetCode, Duolingo\)
+* Consumptions are \(Mood, Brain\)
+  * Recoveries are \(Microlight, HoK\)
 

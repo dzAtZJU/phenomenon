@@ -8,6 +8,8 @@
 * [Day5](day5.md)
 * [Day6](day6.md)
 * [Day7](day7.md)
+* [Day8](day8.md)
+* [Day9](day9.md)
 
 ## Honor of King
 
