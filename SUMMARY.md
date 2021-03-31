@@ -10,11 +10,7 @@
 * [Day7](day7.md)
 * [Day8](day8.md)
 * [Day9](day9.md)
-
-## Honor of King
-
-* [Info & Decision](honor-of-king/info-and-decision.md)
-* [Mindset](honor-of-king/untitled.md)
+* [Day10](day10.md)
 
 ## 日本語勉強experiences <a id="ri-ben-yu-mian-jiang-experiences"></a>
 
