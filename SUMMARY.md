@@ -13,6 +13,7 @@
 * [Day10](day10.md)
 * [Day11](day11.md)
 * [Day12](day12.md)
+* [Day13](day13.md)
 
 ## 日本語勉強experiences <a id="ri-ben-yu-mian-jiang-experiences"></a>
 
