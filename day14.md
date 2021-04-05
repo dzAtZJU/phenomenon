@@ -21,5 +21,5 @@ A human faces choices and he hates choosing. He wants both and all. But he have 
 
 A human faces directions and frontiers. He must decide which direction to advance frontier for how long and how far, which is one round after another round. And the criteria will be business-needs.
 
-A human faces \(hungry, sleepy\), which is indicator to rest and relax. But apart from these legal indicator, I take extra rest just to play HoK...  I 坐不住，多动症, which significantly decrease my throughput. I should optimize out this bad habit. Actually, this may be cause by my long-term-free-will. If I somehow weaken my free-will, I can get benefits as a whole and for long term. Apparently, Sports and Sex are two approaches.
+A human faces \(hungry, sleepy\), which is indicator to rest and relax. But apart from these legal indicator, I take extra rest just to play HoK...  I 坐不住，多动症, which significantly decrease my throughput. I should optimize out this bad habit. Actually, this may be cause by my long-term-free-will. If I somehow weaken my free-will, I can get benefits as a whole and for long term. Apparently, Sports and Sex are two approaches. The feeling of \(hungry, sleep, tired\) is actually a great experience. I should enjoy it from now on.
 
