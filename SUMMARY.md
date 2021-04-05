@@ -49,4 +49,5 @@
 
 * [Humanity](humanity/humanity.md)
 * [Aesthetics](humanity/aesthetics.md)
+* [Limitations](humanity/limitations.md)
 

@@ -10,3 +10,5 @@ gain: HoK-skill. cost: time, exhausted
 
 I dislike either of them.
 
+Now I should put up with a new concept set for myself, which is Limitations. My current Limitations are \(mental-energy, studying-time\)
+
