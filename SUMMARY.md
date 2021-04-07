@@ -50,4 +50,5 @@
 * [Humanity](humanity/humanity.md)
 * [Aesthetics](humanity/aesthetics.md)
 * [Limitations](humanity/limitations.md)
+* [Language](humanity/language.md)
 
